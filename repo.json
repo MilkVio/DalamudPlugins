@@ -25,7 +25,7 @@
     "Name": "PromeRotation API12",
     "Punchline": "雨露霜雪",
     "Description": "An advanced combat rotation platform for FFXIV high-end content.",
-    "InternalName": "PromeRotation",
+    "InternalName": "PromeRotationAPI12",
     "AssemblyVersion": "1.0.2.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
