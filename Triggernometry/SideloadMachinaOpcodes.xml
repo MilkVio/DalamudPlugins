@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TriggernometryExport PluginVersion="2.0.9.0">
+  <ExportedTrigger Enabled="true" Id="1220c1ec-9386-409e-96aa-f08cc8c9c663" Name="繁中服Opcode修复" RegularExpression="^." PeriodRefire="Deny" RefirePeriodExpression="2147483647">
+    <Actions>
+      <Action OrderNumber="1" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="SideloadMachinaOpcodes" NamedCallbackParam="PresetWaymark|BD&#xD;&#xA;Waymark|2BE" />
+      <Action OrderNumber="2" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="command" NamedCallbackParam="/e [SideloadMachinaOpcodes] 已嘗試覆蓋Opcodes" />
+    </Actions>
+  </ExportedTrigger>
+</TriggernometryExport>
