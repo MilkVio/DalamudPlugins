@@ -2,7 +2,7 @@
 <TriggernometryExport PluginVersion="2.0.9.0">
   <ExportedTrigger Enabled="true" Id="1220c1ec-9386-409e-96aa-f08cc8c9c663" Name="繁中服Opcode修复" RegularExpression="^." PeriodRefire="Deny" RefirePeriodExpression="2147483647">
     <Actions>
-      <Action OrderNumber="1" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="SideloadMachinaOpcodes" NamedCallbackParam="PresetWaymark|BD&#xD;&#xA;Waymark|2BE" />
+      <Action OrderNumber="1" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="SideloadMachinaOpcodes" NamedCallbackParam="StatusEffectList|A7&#xD;&#xA;StatusEffectList2|2A8&#xD;&#xA;StatusEffectList3|BC&#xD;&#xA;BossStatusEffectList|222&#xD;&#xA;StatusEffectListForay3|D9&#xD;&#xA;Ability1|1D4&#xD;&#xA;Ability8|2CD&#xD;&#xA;Ability16|385&#xD;&#xA;Ability24|35B&#xD;&#xA;Ability32|94&#xD;&#xA;ActorCast|2D4&#xD;&#xA;EffectResult|116&#xD;&#xA;EffectResultBasic|160&#xD;&#xA;ActorControl|70&#xD;&#xA;ActorControlSelf|115&#xD;&#xA;ActorControlTarget|149&#xD;&#xA;UpdateHpMpTp|334&#xD;&#xA;PlayerSpawn|2F7&#xD;&#xA;NpcSpawn|397&#xD;&#xA;NpcSpawn2|23C&#xD;&#xA;ActorMove|279&#xD;&#xA;ActorSetPos|122&#xD;&#xA;ActorGauge|14C&#xD;&#xA;PresetWaymark|1CD&#xD;&#xA;Waymark|2CC&#xD;&#xA;SystemLogMessage|15F" />
       <Action OrderNumber="2" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="command" NamedCallbackParam="/e [SideloadMachinaOpcodes] 已嘗試覆蓋Opcodes" />
     </Actions>
   </ExportedTrigger>
