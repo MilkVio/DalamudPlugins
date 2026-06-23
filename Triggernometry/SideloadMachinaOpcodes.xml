@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<TriggernometryExport PluginVersion="2.1.0.0">
-  <ExportedTrigger Enabled="false" Id="1220c1ec-9386-409e-96aa-f08cc8c9c663" Name="繁中服Opcode修复" RegularExpression="^." PeriodRefire="Deny" RefirePeriodExpression="2147483647">
+<TriggernometryExport PluginVersion="2.1.1.2">
+  <ExportedTrigger Enabled="true" Id="1220c1ec-9386-409e-96aa-f08cc8c9c663" Name="繁中服Opcode修复" RegularExpression="^." PeriodRefire="Deny" RefirePeriodExpression="2147483647">
     <Actions>
-      <Action OrderNumber="1" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="SideloadMachinaOpcodes" NamedCallbackParam="StatusEffectList|A7&#xD;&#xA;StatusEffectList2|2A8&#xD;&#xA;StatusEffectList3|BC&#xD;&#xA;BossStatusEffectList|222&#xD;&#xA;StatusEffectListForay3|D9&#xD;&#xA;Ability1|1D4&#xD;&#xA;Ability8|2CD&#xD;&#xA;Ability16|385&#xD;&#xA;Ability24|35B&#xD;&#xA;Ability32|94&#xD;&#xA;ActorCast|2D4&#xD;&#xA;EffectResult|116&#xD;&#xA;EffectResultBasic|160&#xD;&#xA;ActorControl|70&#xD;&#xA;ActorControlSelf|115&#xD;&#xA;ActorControlTarget|149&#xD;&#xA;UpdateHpMpTp|334&#xD;&#xA;PlayerSpawn|2F7&#xD;&#xA;NpcSpawn|397&#xD;&#xA;NpcSpawn2|23C&#xD;&#xA;ActorMove|279&#xD;&#xA;ActorSetPos|122&#xD;&#xA;ActorGauge|14C&#xD;&#xA;PresetWaymark|1CD&#xD;&#xA;Waymark|2CC&#xD;&#xA;SystemLogMessage|15F" />
+      <Action OrderNumber="1" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="SideloadMachinaOpcodes" NamedCallbackParam="StatusEffectList|a3&#xD;&#xA;StatusEffectList2|39c&#xD;&#xA;StatusEffectList3|a8&#xD;&#xA;BossStatusEffectList|3ad&#xD;&#xA;StatusEffectListForay3|ac&#xD;&#xA;Ability1|233&#xD;&#xA;Ability8|3bf&#xD;&#xA;Ability16|254&#xD;&#xA;Ability24|3a1&#xD;&#xA;Ability32|2ae&#xD;&#xA;ActorCast|186&#xD;&#xA;EffectResult|252&#xD;&#xA;EffectResultBasic|21d&#xD;&#xA;ActorControl|2a8&#xD;&#xA;ActorControlSelf|297&#xD;&#xA;ActorControlTarget|15c&#xD;&#xA;UpdateHpMpTp|3b5&#xD;&#xA;PlayerSpawn|7b&#xD;&#xA;NpcSpawn|102&#xD;&#xA;NpcSpawn2|331&#xD;&#xA;ActorMove|36e&#xD;&#xA;ActorSetPos|9c&#xD;&#xA;ActorGauge|239&#xD;&#xA;PresetWaymark|154&#xD;&#xA;Waymark|2af&#xD;&#xA;SystemLogMessage|3ab" />
       <Action OrderNumber="2" ActionType="NamedCallback" Asynchronous="False" NamedCallbackName="command" NamedCallbackParam="/e [SideloadMachinaOpcodes] 已嘗試覆蓋Opcodes" />
     </Actions>
   </ExportedTrigger>
