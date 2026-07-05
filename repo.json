@@ -1,44 +1,44 @@
 [
-  {
-    "Author": "Miruku",
-    "Name": "PromeRotation",
-    "Punchline": "雨露霜雪",
-    "Description": "An advanced combat rotation platform for FFXIV high-end content.",
-    "InternalName": "PromeRotation",
-    "AssemblyVersion": "1.5.4.5",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IsHide": false,
-    "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API15/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API15/latest.zip",
-    "DownloadCount": 114514,
-    "LastUpdate": 0,
-    "Tags": [
-      "combat",
-      "rotation",
-      "prome"
-    ]
-  },
-  {
-    "Author": "Miruku",
-    "Name": "PromeRotation API12",
-    "Punchline": "雨露霜雪",
-    "Description": "An advanced combat rotation platform for FFXIV high-end content.",
-    "InternalName": "PromeRotation",
-    "AssemblyVersion": "1.2.3.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "IsHide": false,
-    "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API12/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API12/latest.zip",
-    "DownloadCount": 114514,
-    "LastUpdate": 0,
-    "Tags": [
-      "combat",
-      "rotation",
-      "prome"
-    ]
-  }
+    {
+        "Author":  "Miruku",
+        "Name":  "PromeRotation",
+        "Punchline":  "雨露霜雪",
+        "Description":  "An advanced combat rotation platform for FFXIV high-end content.",
+        "InternalName":  "PromeRotation",
+        "AssemblyVersion":  "1.5.4.6",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IsHide":  false,
+        "IconUrl":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API15/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API15/latest.zip",
+        "DownloadCount":  114514,
+        "LastUpdate":  0,
+        "Tags":  [
+                     "combat",
+                     "rotation",
+                     "prome"
+                 ]
+    },
+    {
+        "Author":  "Miruku",
+        "Name":  "PromeRotation API12",
+        "Punchline":  "雨露霜雪",
+        "Description":  "An advanced combat rotation platform for FFXIV high-end content.",
+        "InternalName":  "PromeRotation",
+        "AssemblyVersion":  "1.2.3.3",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  12,
+        "IsHide":  false,
+        "IconUrl":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API12/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/API12/latest.zip",
+        "DownloadCount":  114514,
+        "LastUpdate":  0,
+        "Tags":  [
+                     "combat",
+                     "rotation",
+                     "prome"
+                 ]
+    }
 ]
