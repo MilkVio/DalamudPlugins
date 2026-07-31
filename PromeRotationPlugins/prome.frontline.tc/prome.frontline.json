@@ -1,0 +1,19 @@
+[
+  {
+    "id": "prome.frontline",
+    "name": "\u7EB7\u4E89\u524D\u7EBF\u5C0F\u52A9\u624B",
+    "author": "Miruku",
+    "description": "The Dark Side of the FFXIV",
+    "version": "1.0.0",
+    "tags": [
+      "combat"
+    ],
+    "apiVersion": 13,
+    "referencePromeVersion": "1.3.1.1",
+    "downloadUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotationPlugins/prome.frontline.tc/prome.frontline.zip",
+    "coverUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotationPlugins/cover/PFL.png",
+    "sourceRepositoryUrl": "",
+    "sponsorUrl": "",
+    "sha256": "155361fa2baa6fe3e523f9723473caa5f82880dfbc3a4e94511afe5549828381"
+  }
+]
